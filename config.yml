@@ -1,0 +1,6 @@
+item_cannon_lore_1: '&7The cannon is used for firing.'
+item_cannon_lore_2: '&7Ammo required to use!'
+message_used_cannon: '&aYou used an artillery item!'
+message_need_tnt: '&7You don''t have TNT'
+message_need_reload: '&cWait before using this again!'
+setting_int_distances: 100
